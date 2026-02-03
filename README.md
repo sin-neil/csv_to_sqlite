@@ -4,11 +4,11 @@ A high-performance Rust CLI tool that converts CSV files to SQLite databases wit
 
 ## Features
 
-- 🚀 Fast CSV parsing and SQLite insertion
-- 🧠 Smart type inference (INTEGER, REAL, TEXT)
-- 💾 Transaction-based bulk inserts
-- 🛡️ Memory safe with Rust's type system
-- 📊 Professional CLI interface
+- Fast CSV parsing and SQLite insertion
+- Smart type inference (INTEGER, REAL, TEXT)
+- Transaction-based bulk inserts
+- Memory safe with Rust's type system
+- Professional CLI interface
 
 ## Installation
 
